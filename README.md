@@ -23,11 +23,11 @@ tensorflow 2.6.0
 
 #### 图3 手势定义
 
-<img src="C:\Users\DannyBill\Desktop\Hand-recognition-on-real-time\pic\手势定义.png" alt="image-20220626104825956" style="zoom:50%;" />
+[<img src="C:\Users\DannyBill\Desktop\Hand-recognition-on-real-time\pic\手势定义.png" alt="image-20220626104825956" style="zoom:50%;" />](https://github.com/assisiannier/Hand-recognition-on-real-time/blob/master/pic/%E6%89%8B%E5%8A%BF%E5%AE%9A%E4%B9%89.png)
 
 #### 图4 完整流程图
 
-<![image-net](https://github.com/assisiannier/Hand-recognition-on-real-time/blob/master/pic/%E5%AE%8C%E6%95%B4%E6%B5%81%E7%A8%8B%E5%9B%BE.png) alt="image-20220626105011468" style="zoom: 80%;" />
+![image-net](https://github.com/assisiannier/Hand-recognition-on-real-time/blob/master/pic/%E5%AE%8C%E6%95%B4%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
 #### 图5 神经网络图
 
