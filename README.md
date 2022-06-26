@@ -32,3 +32,5 @@ tensorflow 2.6.0
 #### 图5 神经网络图
 
 ![image-20220626105330161](C:\Users\DannyBill\Desktop\Hand-recognition-on-real-time\pic\神经网络图.png)
+
+![13](https://github.com/assisiannier/Hand-recognition-on-real-time/blob/master/pic/%E5%AE%8C%E6%95%B4%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
